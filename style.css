@@ -1,0 +1,66 @@
+.banner{
+    background-image: url(Lateststories_Christies.jpeg) ;
+    height:200px;
+    position: relative;
+    border:0cap ;
+ }
+
+ .box {
+
+        margin: 5px;
+        border-radius: 10px ;
+        padding: 15px;
+        border: 1px solid black;
+        text-align: center;
+        position: absolute;
+        background-color: pink;
+        width: 50%;
+       left: 50vh;
+       text-align: left;
+    
+    }
+.boxright {
+       
+            margin: 5px;
+            border-radius: 10px ;
+            padding: 15px;
+            border: 1px solid black;
+            text-align: center;
+            position: absolute;
+            background-color: pink;
+            width: 20%;
+           right:0vh;
+           
+           
+           
+        }
+.boxleft {
+            
+                margin: 5px;
+                border-radius: 10px ;
+                padding: 15px;
+                border: 1px solid black;
+                text-align: center;
+                position: absolute;
+                background-color: pink;
+                width: 20%;
+               left: 0vh;
+            }
+  
+
+
+  
+            .boxright a{
+                display: block;
+              }  .boxleft a{
+                display: block;
+              }
+
+    
+.pics{
+    
+    text-align: center;
+    display: inline-block;
+
+
+}
